@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[6th Sense]]></title>
-        <description><![CDATA[6th Sense]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[6th Sense Paranormal Investigations]]></title>
+        <description><![CDATA[6th Sense Paranormal Investigations]]></description>
+        <link>https://thegrid.ai/6th-sense/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 21:18:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 21:40:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/6th-sense/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/597f50f4-eb21-4418-8136-ccacef548cbb.jpg">]]></description>
+            <link>https://thegrid.ai/6th-sense/3cf77461-ce42-40f6-b45d-67e8c2714351/index.html</link>
+            <guid isPermaLink="false">3cf77461-ce42-40f6-b45d-67e8c2714351</guid>
+            <pubDate>Tue, 22 Mar 2016 21:40:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Chained Oak]]></title>
             <description><![CDATA[<article><h1>The Chained Oak</h1><p>Duis ultrices orci id varius tincidunt. Quisque et urna sed lacus scelerisque pharetra a nec risus. Etiam dapibus vel quam sit amet sodales. Donec sit amet suscipit nulla. Nullam ullamcorper justo ut mattis condimentum. In nec ornare ipsum, non blandit metus.</p></article>]]></description>
-            <link>undefinedthe-chained-oak/index.html</link>
+            <link>https://thegrid.ai/6th-sense/the-chained-oak/index.html</link>
             <guid isPermaLink="false">14db06b7-9c7e-46f8-adf0-975927d94e56</guid>
             <pubDate>Tue, 22 Mar 2016 21:18:06 GMT</pubDate>
         </item>
